@@ -1,16 +1,1 @@
-{
-  "name": "예온이의 판다 매직랜드",
-  "short_name": "판다 매직랜드",
-  "description": "구구단 마법으로 판다를 키우는 예온이 전용 학습 게임",
-  "lang": "ko",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#FFF0F6",
-  "theme_color": "#FFB6CF",
-  "icons": [
-    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
-    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
-  ]
-}
+{"name":"예온이의 판다 매직랜드","short_name":"판다 매직랜드","description":"구구단을 배우고 뭉치를 키우는 오프라인 학습 게임","start_url":"./","scope":"./","display":"standalone","background_color":"#fff4fb","theme_color":"#f9b9d9","icons":[{"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
